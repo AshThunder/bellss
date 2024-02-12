@@ -1,4 +1,4 @@
-package com.bellsfood.ng
+package com.flyweb
 
 import io.flutter.embedding.android.FlutterActivity
 
