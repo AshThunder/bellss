@@ -8,7 +8,7 @@
 PRODUCT_NAME = flyweb
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.flyweb
+PRODUCT_BUNDLE_IDENTIFIER = com.bellsfood
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com. All rights reserved.
