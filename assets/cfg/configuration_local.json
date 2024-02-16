@@ -1,4 +1,4 @@
 {
-  "api_base_url": "http://192.168.1.2:8080/flyweb/",
+  "com.bellsfoodase_url": "http://192.168.1.2:8080/flyweb/",
   "defaultLanguage": "en"
 }
